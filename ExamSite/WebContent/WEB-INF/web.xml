@@ -10,6 +10,7 @@
 		<param-value>/WEB-INF/spring/root-context.xml</param-value>
 	</context-param>
   	<!-- Processes application requests -->
+	<!-- Processes application requests -->
 	<servlet>
 		<servlet-name>servlet</servlet-name>
 		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
